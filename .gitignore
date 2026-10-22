@@ -1,0 +1,10 @@
+# Competition data must NOT be redistributed (competition rules, section 4b)
+data/
+*.csv
+*.dcm
+*.npy
+*.pt
+*.pth
+*.safetensors
+__pycache__/
+.ipynb_checkpoints/
